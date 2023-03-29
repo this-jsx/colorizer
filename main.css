@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+  background: #222;
+}
+
+.colors {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.box {
+  max-width: 100px;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
